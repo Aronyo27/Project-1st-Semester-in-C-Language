@@ -1,3 +1,6 @@
+// ~~ ARONYO BARAL 
+
+
 #include<stdio.h>
 
 int puzzle[9][9]={
